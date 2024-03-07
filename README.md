@@ -1,1 +1,1 @@
-# aws-terraform-module-static-website-cicd
+# aws-terraform-modules-static-website-cicd
